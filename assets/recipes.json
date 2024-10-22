@@ -1,0 +1,82 @@
+[
+    {
+        "title": "Katsu",
+        "image": "assets/images/Katsu.jpeg",
+        "subtitle": "Crispy Japanese Cutlet",
+        "time": "2 hours",
+        "rating": "4.5/5",
+        "description": "Katsu is a popular Japanese dish featuring breaded and fried cutlets."
+    },
+    {
+        "title": "Ramen",
+        "image": "assets/images/Ramen.jpeg",
+        "subtitle": "Japanese Noodle Soup",
+        "time": "2 hours",
+        "rating": "5/5",
+        "description": "Ramen is a staple in Japanese cuisine, featuring noodles served in a savory broth."
+    },
+    {
+        "title": "Sushi",
+        "image": "assets/images/sushiii.jpeg",
+        "subtitle": "Classic Japanese Sushi",
+        "time": "3.5 hours",
+        "rating": "4.8/5",
+        "description": "Sushi is a Japanese dish consisting of vinegared rice accompanied by various fillings or toppings."
+    },
+    {
+        "title": "Kung Pao Chicken",
+        "image": "assets/images/KungPaoChicken.jpeg.png",
+        "subtitle": "Spicy Sichuan Stir-fry",
+        "time": "1 hour",
+        "rating": "4.3/5",
+        "description": "Kung Pao Chicken is a spicy stir-fried Chinese dish with chicken, peanuts, and vegetables."
+    },
+    {
+        "title": "Yakisoba",
+        "image": "assets/images/Yakisoba.jpeg",
+        "subtitle": "Japanese Stir-fried Noodles",
+        "time": "1 hour",
+        "rating": "4.6/5",
+        "description": "Yakisoba is a popular Japanese dish made with stir-fried noodles and vegetables."
+    },
+    {
+        "title": "Homemade Gyoza",
+        "image": "assets/images/briouats.png",
+        "subtitle": "Japanese Stir-fried Noodles",
+        "time": "2.5 hours",
+        "rating": "4.4/5",
+        "description": "Homemade Gyoza s a popular Japanese dish made with stir-fried noodles and vegetables"
+    },
+    {
+        "title": "Yum Soup",
+        "image": "assets/images/YumSoup.jpeg",
+        "subtitle": "Flavorful Thai Soup",
+        "time": "15 minutes",
+        "rating": "4.9/5",
+        "description": "Yum Soup is a delicious Thai dish with a combination of sour, spicy, and savory flavors."
+    },
+    {
+        "title": "Vegan Jjajang Tteokbokki",
+        "image": "assets/images/VeganJjajangTteokbokki.jpeg.png",
+        "subtitle": "Korean Black Bean Rice Cakes",
+        "time": "3 hours",
+        "rating": "4.7/5",
+        "description": "Vegan Jjajang Tteokbokki is a savory Korean dish made with chewy rice cakes in a black bean sauce."
+    },
+    {
+        "title": "Kimchi",
+        "image": "assets/images/Kimchi.jpeg",
+        "subtitle": "Traditional Korean Fermented Vegetables",
+        "time": "3 hours",
+        "rating": "4.5/5",
+        "description": "Kimchi is a staple Korean side dish made from fermented vegetables with various seasonings."
+    },
+    {
+        "title": "Dakgangjeong",
+        "image": "assets/images/Dakgangjeong.jpeg",
+        "subtitle": "Sweet & Crispy Korean Chicken",
+        "time": "45 minutes",
+        "rating": "4/5",
+        "description": "Dakgangjeong is a Korean dish of crispy fried chicken glazed with a sweet and spicy sauce."
+    }
+]
